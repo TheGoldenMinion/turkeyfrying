@@ -1,2 +1,1 @@
-# turkey frying
-# turkeyfrying
+The repo for my gameboy game.
